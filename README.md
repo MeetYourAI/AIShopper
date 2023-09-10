@@ -1,4 +1,4 @@
-# Insurance Ai
-Repo for static prototype insurance Ai
+# AI Shopper
+Repo for static prototype AI Shopper
 
-Team: Anaïs Gilbert and Sandhia
+Team: Anaïs Gilbert & TBD
